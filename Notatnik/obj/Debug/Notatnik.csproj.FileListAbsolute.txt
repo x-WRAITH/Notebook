@@ -1,0 +1,10 @@
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\bin\Debug\Notatnik.exe.config
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\bin\Debug\Notatnik.exe
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\bin\Debug\Notatnik.pdb
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.csprojAssemblyReference.cache
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.Form1.resources
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.Properties.Resources.resources
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.GenerateResource.cache
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.csproj.CoreCompileInputs.cache
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.exe
+C:\Users\Kamil\Desktop\ZAD\Projekty\Notatnik c#\Notatnik\Notatnik\obj\Debug\Notatnik.pdb
